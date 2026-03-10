@@ -37,10 +37,6 @@ Turning Ideas into Reality with Code, Creativity, and Passion 💡
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://instagram.com">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
 </p>
 
 ---
@@ -52,37 +48,6 @@ Turning Ideas into Reality with Code, Creativity, and Passion 💡
 <img src="https://skillicons.dev/icons?i=java,js,python,react,nextjs,nodejs,express,html,css,bootstrap,tailwind,docker,mongodb,mysql,git,linux" />
 
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IT21821240&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21821240&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=IT21821240&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-🔹 Eye Wear Management System – MERN Stack  
-🔹 Online Vaccination Portal – Full Stack Web Application  
-🔹 Online Event Management System – Java Web System  
-🔹 Shopping Cart Mobile App – Kotlin Android Application  
 
 ---
 
