@@ -21,6 +21,10 @@ Turning Ideas into Reality with Code, Creativity, and Passion 💡
 
 🤝 Interested in collaborating on **Open Source Projects**
 
+🌐 Portfolio: https://portfolio-shobithaa-srikanthan.vercel.app
+
+📄 CV:https://drive.google.com/file/d/1PBWDS7gj3U1D4mm4Qd8H_GG7_ORr-sNO/view?usp=drive_link
+
 ⚡ Fun fact: I enjoy **watching movies, listening to music, and exploring new technologies**
 
 ---
@@ -29,7 +33,7 @@ Turning Ideas into Reality with Code, Creativity, and Passion 💡
 
 <p align="left">
 
-<a href="www.linkedin.com/in/shobithaa-srikanthan-a521b2283">
+<a href="https://www.linkedin.com/in/shobithaa-srikanthan-a521b2283">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
