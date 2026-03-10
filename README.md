@@ -10,10 +10,9 @@ Turning Ideas into Reality with Code, Creativity, and Passion 💡
 </p>
 
 ---
-
 ## 💡 About Me
 
-🎓 Software Engineering Graduate from **SLIIT**
+🎓 **Software Engineering Graduate from SLIIT**
 
 💻 Passionate about **Full Stack Web Development**
 
@@ -21,11 +20,13 @@ Turning Ideas into Reality with Code, Creativity, and Passion 💡
 
 🤝 Interested in collaborating on **Open Source Projects**
 
-🌐 Portfolio: https://portfolio-shobithaa-srikanthan.vercel.app
+🌐 **Portfolio:**  
+[![Portfolio](https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge&logo=vercel)](https://portfolio-shobithaa-srikanthan.vercel.app)
 
-📄 CV:https://drive.google.com/file/d/1PBWDS7gj3U1D4mm4Qd8H_GG7_ORr-sNO/view?usp=drive_link
+📄 **Curriculum Vitae:**  
+[![CV](https://img.shields.io/badge/Download-CV-green?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1PBWDS7gj3U1D4mm4Qd8H_GG7_ORr-sNO/view)
 
-⚡ Fun fact: I enjoy **watching movies, listening to music, and exploring new technologies**
+⚡ **Fun fact:** I enjoy **watching movies, listening to music, and exploring new technologies**
 
 ---
 
